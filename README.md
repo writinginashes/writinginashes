@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey y'all✌🏽 I'm Ash</h1>
+<h3 align="center">a teacher in Japan looking to get into the tech industry.</h3>
 
-<!--
-**writinginashes/writinginashes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=writinginashes&label=Profile%20views&color=0e75b6&style=flat" alt="writinginashes" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **learning python, swift, html, css and javascript!**
+
+- 💻 Also I've been studying Python with [Free Code Camp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+- 📫 My email contact is **ash.arikirevula@gmail.com**
+
+- 📸 Fun fact **I love creative projects and making things so I'm always working on something or the other!**
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
