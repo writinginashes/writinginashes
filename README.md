@@ -11,7 +11,7 @@
 
 - 📫 My email contact is **ash.arikirevula@gmail.com**
 
-- 📸 Fun fact **I love creative projects and making things so I'm always working on something or the other!**
+- 📸 Fun fact: **I have quite a few hobbies; photography, martial arts and fashion to name a few**
 
 </p>
 
