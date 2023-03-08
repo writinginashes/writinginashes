@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/) to get a hang of web development.
 
-- 🌱 I’m currently learning **python, swift, html, css and javascript** while getting used to coding.<br>
-It's a lot but very rewarding.
+- 🌱 I’m currently learning **python, swift, html, css and javascript** while getting used to coding. It's a lot to earn at once,<br>
+  but it's very rewarding.
 
 - 💻 Also I've been studying Python with [Free Code Camp](https://www.freecodecamp.org/learn/scientific-computing-with-python/) where I've been
 building projects to keep learning.
