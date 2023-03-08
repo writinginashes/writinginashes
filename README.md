@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=writinginashes&label=Profile%20views&color=0e75b6&style=flat" alt="writinginashes" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/) to get a hang of web development.
 
-- 🌱 I’m currently learning **learning python, swift, html, css and javascript!**
+- 🌱 I’m currently learning **python, swift, html, css and javascript** while getting used to coding. It's a lot but very rewarding.
 
 - 💻 Also I've been studying Python with [Free Code Camp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
